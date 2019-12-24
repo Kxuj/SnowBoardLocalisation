@@ -1,0 +1,9 @@
+CUSTOM_CORNER_RADIUS = "Aangepaste Hoekradius";
+CUSTOM_ICON_SCALE = "Aangepaste Pictogramschaal";
+HIDE_LABELS = "Verbeg Labels";
+HIDE_LABEL_DOTS = "Verberg Label Punten";
+HIDE_ICON_TOUCH_OVERLAYS = "Verberg Touch-Overlay Pictogram";
+FORCE_LEGACY = "Force Legacy Compatibility";
+CLEAR_ALTERNATIVE_ICONS = "Verberg Alternatieve Pictogrammen";
+FORCE_REFRESH = "Geforceerd vernieuwen";
+ICON_OPTIONS = "Pictogram Opties";
